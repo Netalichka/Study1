@@ -6,3 +6,6 @@
  Console.WriteLine("Привет Мир");
  Console.ReadLine();
 
+Console.WriteLine("Анкета");
+
+string name =  Console.ReadLine();
