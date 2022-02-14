@@ -2,8 +2,7 @@
 //Console.WriteLine("Hello, World!");
 
 
-
- Console.WriteLine("Привет Мир");
+Console.WriteLine("Привет Мир");
  Console.ReadLine();
 
 
@@ -26,3 +25,4 @@ string weight = Console.ReadLine();
 Console.WriteLine("ФИО " + name + Lastname + "Рост = " + growth + "Вес = " + weight);
 Console.ReadLine();
 
+ 
